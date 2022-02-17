@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice-Roller</string>
+    <string name="rollresult">rollResult</string>
+    <string name="roll">ROLL!</string>
+    <string name="please_tap_the_button">Please tap the button....</string>
+    <string name="dice_roller">Dice Roller</string>
+</resources>
